@@ -48,7 +48,7 @@ import java.util.Collection;
 import java.util.Set;
 
 /**
- * @author nagel
+ * @author DeanMaponga
  *
  */
 public class RunMatsim{
