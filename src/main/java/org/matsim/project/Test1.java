@@ -129,7 +129,6 @@ class CustomScoringFunction implements ScoringFunction, PersonDepartureEventHand
 
     @Override
     public void finish() {
-        // Perform any final calculations or actions before the simulation ends
-        // ...
+
     }
 }
