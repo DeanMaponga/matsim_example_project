@@ -129,6 +129,5 @@ class CustomScoringFunction implements ScoringFunction, PersonDepartureEventHand
 
     @Override
     public void finish() {
-
     }
 }
