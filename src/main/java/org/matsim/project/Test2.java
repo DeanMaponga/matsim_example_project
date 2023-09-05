@@ -23,7 +23,7 @@ public class Test2 {
             String filename1 = "scenarios/equil/config.xml";
             String filename2 = "scenarios/base_scenario/config.xml";
             String filename3 = "scenarios/drt_scenario/config_with_sav.xml";
-            config = ConfigUtils.loadConfig(filename1);
+            config = ConfigUtils.loadConfig(filename2);
         } else {
             config = ConfigUtils.loadConfig(args);
         }
